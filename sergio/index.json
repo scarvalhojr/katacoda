@@ -22,6 +22,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "rust:1.44.1"
   }
 }
