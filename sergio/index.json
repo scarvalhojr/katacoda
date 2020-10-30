@@ -1,0 +1,24 @@
+{
+  "title": "sergio",
+  "description": "sergio",
+  "difficulty": "Beginner",
+  "time": "1",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "ubuntu1904"
+  }
+}
